@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Daftar Keinginan Saya</title>
+    <Style>
+        Body {
+            fornt-family: Arial, Sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 50px
+        {
+        h1 {
+             color: #0056b3;
+             border-bottom: 2px solid #0056b3;
+             padding-bottom: 10px;
+        {
+        ul {
+            listh-style-type: square;
+            padding-left: 20px;
+        {
+        li { 
+            margin-bottom: 8px;
+            font-size: 1.1em;
+        }
+   </style>
+</head>
+<body>
+    <h1>🌟  Daftar Keinginan Sederhana Saya</h1>
+    <p>Ini adalah daftar kecil hal-hal yang saya ingin capai atau miliki.</p>
+    <ul>
+       <li>Belajar satu *framework* baru ( misalnya, React atau vue).</li>
+       <li>Mengembangkan kembali teori dasar koding.</li>
+       <li>Mendapatkan pekerjaan yang sesuai.</li>
+       <li>berolahraga 3 kali seminggu.</li>
+       <li>Membuat conten post instagram bisnis ibu.</li>
+    </ul>
+    <footer>
+        <p>Proyek GitHub sederhana dibuat oleh salvi.</p>
+    </footer>
+    </body>
+    </html>
+
+
+
